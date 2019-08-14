@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>967456B8-8477-4508-9D5F-6DAD837E5651</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>967456B8-8477-4508-9D5F-6DAD837E5651.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Baestore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Baestore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Baestore with scheme Baestore and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580131745.26349902</real>
+			<key>timeStoppedRecording</key>
+			<real>580131747.45170105</real>
+			<key>title</key>
+			<string>Building project Baestore with scheme Baestore and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>967456B8-8477-4508-9D5F-6DAD837E5651</string>
+		</dict>
+		<key>D7D9C44B-5229-476C-82DA-410C7723C46B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7D9C44B-5229-476C-82DA-410C7723C46B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Baestore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Baestore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Baestore with scheme Baestore and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580130659.37388694</real>
+			<key>timeStoppedRecording</key>
+			<real>580130674.71807694</real>
+			<key>title</key>
+			<string>Building project Baestore with scheme Baestore and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D7D9C44B-5229-476C-82DA-410C7723C46B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

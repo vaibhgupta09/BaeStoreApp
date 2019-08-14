@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageImageIOCoder.m \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageImageIOCoder.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageCoder.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageCompat.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/NSData+ImageContentType.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageCoderHelper.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/SDWebImageFrame.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/NSImage+WebCache.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/SDWebImage/UIImage+MultiFormat.h

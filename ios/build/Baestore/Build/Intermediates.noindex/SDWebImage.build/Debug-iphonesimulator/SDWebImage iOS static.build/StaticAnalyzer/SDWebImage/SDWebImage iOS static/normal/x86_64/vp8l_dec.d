@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/vp8l_dec.c \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./alphai_dec.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./webpi_dec.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/rescaler_utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../webp/types.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./vp8_dec.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../webp/decode.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../webp/./types.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/filters_utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/dsp.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../webp/types.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./vp8li_dec.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/bit_reader_utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/color_cache_utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/huffman_utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../webp/format_constants.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../dsp/dsp.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../dsp/lossless.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../webp/decode.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../enc/histogram_enc.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../enc/./backward_references_enc.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../enc/../webp/types.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../enc/../webp/format_constants.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../utils/utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../dsp/lossless_common.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../dsp/yuv.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/./dsp.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../dec/vp8_dec.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/endian_inl_utils.h \
+  /Users/mac/Desktop/Vaibhav/MyRNProjects/Baestore/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/utils.h
